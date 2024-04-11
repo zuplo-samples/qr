@@ -16,7 +16,7 @@
           "corsPolicy": "none",
           "handler": {
             "export": "default",
-            "module": "$import(./modules/hello-world)",
+            "module": "$import(./modules/qr-handler)",
             "options": {}
           },
           "policies": {
